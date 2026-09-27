@@ -2,6 +2,7 @@
 
 ## Browser Plugin
 - https://github.com/MatiGrinberg/HTML_scraper_plugin
+- https://github.com/MatiGrinberg/Doctors_Search_Chrome_Plugin
 ## NLP
 - https://github.com/MatiGrinberg/FED_minutes_sentiment
 ## Data Analysis
